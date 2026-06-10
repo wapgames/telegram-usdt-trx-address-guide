@@ -225,7 +225,8 @@ USDT 有多个网络版本。查询前需要先确认地址所属网络。如果
 
 你可以从下面的教程开始：
 
-* 🔍 [TRC20 USDT 地址查询教程](docs/trc20-usdt-address-query.md)
+- 🧭 [使用前先看：USDT / TRX 地址查询与监听怎么选](docs/start-here.md)
+- 🔍 [TRC20 USDT 地址查询教程](docs/trc20-usdt-address-query.md)
 
 后续适合继续了解：
 
