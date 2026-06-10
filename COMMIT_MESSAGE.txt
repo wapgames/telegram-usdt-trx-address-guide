@@ -1,0 +1,5 @@
+docs: add Telegram USDT TRX query guide starter
+
+- add README as the main navigation page
+- add TRC20 USDT address query tutorial
+- add docs content plan for long-tail topics
