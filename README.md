@@ -24,8 +24,8 @@
 - **实时 U 价**：查看 USDT 相关价格信息；
 - **我的账户**、**系统设置**、**ID 查询**：用于账户管理和基础设置。
 
-机器人用户名：`@liancha123bot`  
-官网信息：`liancha.net`
+机器人：[@liancha123bot](https://t.me/liancha123bot)  
+官网入口：[liancha.net](https://liancha.net)
 
 ## 推荐使用流程
 
