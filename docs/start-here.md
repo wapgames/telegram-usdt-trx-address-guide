@@ -99,7 +99,7 @@
 第一次使用时，可以按下面顺序阅读：
 
 1. 🔍 [TRC20 USDT 地址查询教程](trc20-usdt-address-query.md)
-2. 🔔 Telegram 地址监听设置教程
+2. 🔔 [Telegram 地址监听教程](telegram-address-monitoring.md)
 3. 💸 TRX 手续费不足处理方法
 4. ⚡ 能量租用适用场景说明
 5. 🛡️ Telegram 机器人安全使用清单
@@ -107,6 +107,11 @@
 目前已经整理完成：
 
 * [TRC20 USDT 地址查询教程](trc20-usdt-address-query.md)
+* [Telegram 地址监听教程](telegram-address-monitoring.md)
+
+## ↩️ 回到首页
+
+* [返回 README 首页](../README.md)
 
 ## ↩️ 回到首页
 
