@@ -228,6 +228,14 @@ USDT 有多个网络版本。查询前需要先确认地址所属网络。如果
 * 🧭 [使用前先看：USDT / TRX 地址查询与监听怎么选](docs/start-here.md)
 * 🔍 [TRC20 USDT 地址查询教程](docs/trc20-usdt-address-query.md)
 * 🔔 [Telegram 地址监听教程](docs/telegram-address-monitoring.md)
+* 💸 [TRX 手续费不足怎么办](docs/trx-fee-insufficient.md)
+
+后续适合继续了解：
+
+* ⚡ 能量租用适合哪些转账场景；
+* ✅ 如何判断 USDT 是否已经到账；
+* 🛡️ 使用 Telegram 机器人查询地址时如何避免风险。
+
 
 后续适合继续了解：
 
