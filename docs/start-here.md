@@ -101,7 +101,7 @@
 1. 🔍 [TRC20 USDT 地址查询教程](trc20-usdt-address-query.md)
 2. 🔔 [Telegram 地址监听教程](telegram-address-monitoring.md)
 3. 💸 [TRX 手续费不足怎么办](trx-fee-insufficient.md)
-4. ⚡ 能量租用适用场景说明
+4. ⚡ [能量租用适合哪些场景](energy-rental-guide.md)
 5. 🛡️ Telegram 机器人安全使用清单
 
 目前已经整理完成：
@@ -109,20 +109,7 @@
 * [TRC20 USDT 地址查询教程](trc20-usdt-address-query.md)
 * [Telegram 地址监听教程](telegram-address-monitoring.md)
 * [TRX 手续费不足怎么办](trx-fee-insufficient.md)
-
-
-## ↩️ 回到首页
-* [返回 README 首页](../README.md)
-
-
-目前已经整理完成：
-
-* [TRC20 USDT 地址查询教程](trc20-usdt-address-query.md)
-* [Telegram 地址监听教程](telegram-address-monitoring.md)
-
-## ↩️ 回到首页
-
-* [返回 README 首页](../README.md)
+* [能量租用适合哪些场景](energy-rental-guide.md)
 
 ## ↩️ 回到首页
 
