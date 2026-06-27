@@ -231,10 +231,10 @@ USDT 有多个网络版本。查询前需要先确认地址所属网络。如果
 * 🔔 [Telegram 地址监听教程](docs/telegram-address-monitoring.md)
 * 💸 [TRX 手续费不足怎么办](docs/trx-fee-insufficient.md)
 * ⚡ [能量租用适合哪些场景](docs/energy-rental-guide.md)
+* ✅ [如何判断 USDT 是否已经到账](docs/usdt-arrival-check.md)
 
 后续适合继续了解：
 
-* ✅ 如何判断 USDT 是否已经到账；
 * 🛡️ 使用 Telegram 机器人查询地址时如何避免风险。
 
 
