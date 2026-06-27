@@ -102,7 +102,8 @@
 2. 🔔 [Telegram 地址监听教程](telegram-address-monitoring.md)
 3. 💸 [TRX 手续费不足怎么办](trx-fee-insufficient.md)
 4. ⚡ [能量租用适合哪些场景](energy-rental-guide.md)
-5. 🛡️ Telegram 机器人安全使用清单
+5. ✅ [如何判断 USDT 是否已经到账](usdt-arrival-check.md)
+6. 🛡️ Telegram 机器人安全使用清单
 
 目前已经整理完成：
 
@@ -110,6 +111,7 @@
 * [Telegram 地址监听教程](telegram-address-monitoring.md)
 * [TRX 手续费不足怎么办](trx-fee-insufficient.md)
 * [能量租用适合哪些场景](energy-rental-guide.md)
+* [如何判断 USDT 是否已经到账](usdt-arrival-check.md)
 
 ## ↩️ 回到首页
 
